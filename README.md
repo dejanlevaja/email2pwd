@@ -18,11 +18,11 @@ Examples:
 
 1. Output to file "output.txt"
 
-    ./email2pwd.py -e emails.txt -o output.txt
+    email2pwd.py -e emails.txt -o output.txt
 
 2. Output to separate file for each email address
 
-    ./email2pwd.py -e emails.txt -s
+    email2pwd.py -e emails.txt -s
 
 For example, if emails.txt contains email address like "john.smith@acme.lab", email2pwd will create a file named "john.smith@acme.lab.txt" with the following contents:
 
