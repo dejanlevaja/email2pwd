@@ -24,7 +24,7 @@ Examples:
 
     email2pwd.py -e emails.txt -s
 
-For example, if emails.txt contains email address like "john.smith@acme.lab", email2pwd will create a file named "john.smith@acme.lab.txt" with the following contents:
+For example, if emails.txt contains email address like "john.smith@acme.lab", email2pwd will create a file named "john.smith@acme.lab.txt" with the following contents (with line breaks of course):
 
 
 ACME
