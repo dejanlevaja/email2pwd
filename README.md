@@ -2,6 +2,7 @@ email2pwd
 =========
 
 email2pwd is a simple password generator that generates passwords based on email addresses.
+
 Options:
 
 -e email_list (required)
