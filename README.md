@@ -11,7 +11,7 @@ Options:
 
 -o output_file (optional, if omitted defaults to STDOUT)
 
--s (optional, 'special' means that we want to create a separate password file for each email address)
+-s (optional, '-s' means that we want to create a separate password file for each email address)
 
 
 Examples:
