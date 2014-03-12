@@ -5,9 +5,13 @@ email2pwd is a simple password generator that generates passwords based on email
 Options:
 
 -e email_list (required)
+
 -c common_password_list (optional, adds contents of the list to the list of generated passwords)
+
 -o output_file (optional, if omitted defaults to STDOUT)
+
 -s (optional, 'special' means that we want to create a separate password file for each email address)
+
 
 Examples:
 
